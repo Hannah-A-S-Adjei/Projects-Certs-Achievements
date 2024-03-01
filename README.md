@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/Hannah-A-S-Adjei/Just_Sample/tree/main)
   - [Hello World!](https://github.com/joshmadakor1/AD_PS)
   
 <h2>📺 Popular YouTube Videos</h2>
