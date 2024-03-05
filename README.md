@@ -13,7 +13,7 @@ I am a motivated security analyst.
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [FTP Flaw Unleashes Privilege Escalation Nightmare](https://github.com/Hannah-A-S-Adjei/Guarding_Data_in_Transit-An_FTP_Vulnerability_Exploration)
-  - [Hello World!](https://github.com/joshmadakor1/AD_PS)
+    
   
 <h2>Work Experience</h2>
 
