@@ -26,8 +26,8 @@ A motivated security analyst who studies Computer Science at Ontario Tech Univer
 
 <h2>Certifications</h2>
 
-  - CompTIA Security+
-  - Google Cybersecurity Certificate
+  - CompTIA Security+ (https://www.credly.com/badges/ffc17a6c-4b98-4b00-98a6-c7a4a20a3840/public_url)
+  - Google Cybersecurity Certificate (https://www.credly.com/badges/772fefac-1e24-4235-9531-f2886566a677/public_url)
 
 
 <h2>Publications</h2>
