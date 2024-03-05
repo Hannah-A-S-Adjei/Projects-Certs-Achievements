@@ -45,6 +45,11 @@ Network Engineer Huawei Technologies Co. LTD  | 09/2021 - 05/2023
 
 <h2>Publication</h2>
 
+ - SSL Stripping Technique (DHCP Snooping and ARP Spoofing Inspection). The 23rd International Conference on Advanced Communications Technology/IEEE – 2021
+   (https://ieeexplore.ieee.org/document/9370460)
+  - Developing a Bluetooth-Based Tracking System Using Arduino. The 5th IEEE International Conference on Computing, Communication and Security -2020
+   (https://ieeexplore.ieee.org/document/92768840)
+   
 <h2> 🤳 Connect with me:</h2>
 
 
