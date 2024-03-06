@@ -14,6 +14,8 @@ A motivated security analyst who studies Computer Science at Ontario Tech Univer
 <h2>👨‍💻 CyberSecurity Projects</h2>
 
   - [FTP Flaw Unleashes Privilege Escalation Nightmare](https://github.com/Hannah-A-S-Adjei/Guarding_Data_in_Transit-An_FTP_Vulnerability_Exploration)
+  - [Brute Force Attack](https://github.com/Hannah-A-S-Adjei/Brute_Force_Attack)
+  - [Exploiting SSL Weaknesses: A Tactical Maneuver with Wireshark Insight](https://github.com/Hannah-A-S-Adjei/SSL-Vulnerability)
 
 <h2>Education</h2>
 
