@@ -38,11 +38,17 @@ A motivated security analyst who studies Computer Science at Ontario Tech Univer
    (https://ieeexplore.ieee.org/document/9370460)
   - Developing a Bluetooth-Based Tracking System Using Arduino. The 5th IEEE International Conference on Computing, Communication and Security – 2020
    (https://ieeexplore.ieee.org/document/92768840)
-   
-<h2> 🤳 Connect with me</h2>
-<p align="left">
-<a href="www.linkedin.com/in/hannah-a-s-a-508562140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hannah-A-S-Adjei height="30" width="40" /></a>
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Hannah-A-S-Adjei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/hannah-a-s-a-508562140/
+
+
+
+  
 
 
 
