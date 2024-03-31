@@ -16,6 +16,8 @@ A motivated security analyst who studies Computer Science at Ontario Tech Univer
   - [FTP Flaw Unleashes Privilege Escalation Nightmare](https://github.com/Hannah-A-S-Adjei/Guarding_Data_in_Transit-An_FTP_Vulnerability_Exploration)
   - [Brute Force Attack](https://github.com/Hannah-A-S-Adjei/Brute_Force_Attack)
   - [Exploiting SSL Weaknesses: A Tactical Maneuver with Wireshark Insight](https://github.com/Hannah-A-S-Adjei/SSL-Vulnerability)
+  - [Mastering Heavy Forwarder Configuration in Splunk](https://github.com/Hannah-A-S-Adjei/Mastering-Heavy-Forwarder-Configuration-in-Splunk)
+  - [Streamlining App Installation in Splunk](https://github.com/Hannah-A-S-Adjei/Streamlining-App-Installation-in-Splunk)
 
 <h2>Education</h2>
 
