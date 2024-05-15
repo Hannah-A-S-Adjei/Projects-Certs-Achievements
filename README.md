@@ -26,7 +26,7 @@ Certified Cyber Security Analyst with experience in information technology and e
  - Doctor of Philosophy in Computer Science | Ontario Tech University (2023-Present)
    GPA: 4.2/4.3
  - Master of Science in Information and Communication Engineering | Southwest University of Science and Technology (2019-2021)
-   GPA:3.8/4.0
+   GPA: 3.8/4.0
  - Bachelor of Science in Telecommunications Engineering | Ghana Communication Technology University (2014-2017).
    GPA: 3.7/4.0
 
