@@ -22,7 +22,6 @@ A Computer Science research student at Ontario Tech University with a strong fou
   - [Mastering Heavy Forwarder Configuration in Splunk](https://github.com/Hannah-A-S-Adjei/Mastering-Heavy-Forwarder-Configuration-in-Splunk)
   - [Streamlining App Installation in Splunk](https://github.com/Hannah-A-S-Adjei/Streamlining-App-Installation-in-Splunk)
   - [Comparative Analysis of SVM and Logistic Regression Models under DeepFool Attacks on the CICIDS 2017 Dataset](https://github.com/Hannah-A-S-Adjei/CSV/blob/master/DeepFool_Attack_on_SVM_and_LR.ipynb)
-  - [Blended Backdoor Injection Attack on MNIST](https://github.com/Hannah-A-S-Adjei/CSV/blob/master/Blended%20Backdoor%20Injection%20Attack%20on%20MNIST.ipynb)
   
 
 <h2>Professional Experience </h2>
