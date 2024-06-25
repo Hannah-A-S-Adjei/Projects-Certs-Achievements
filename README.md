@@ -20,7 +20,6 @@
 - Awarded Huawei GTS Excellent Employee Award 
 - Huawei Future Star Award Winner
 - Huawei Excellent New Employee Award Winner
--	Increased class average by 20% through mentoring and tutoring undergraduate students.
 -	Awarded best female engineering student for the 2016/2017 Academic year by Vodafone Ghana
 - Florence Onny's Academic Scholarship
 
